@@ -25,7 +25,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 TAREGET_SIZE = 700
 # 생성된 .npy 파일들이 저장될 data 폴더의 절대 경로 지정
 SAVE_DIR = os.path.join(BASE_DIR, "data") 
-FALLBACK_API_KEY = "19c8ec4f172050fed3736d53c0efd6c0"
+FALLBACK_API_KEY = " 개인 API KEY 입력 바람"
 
 # ==========================================
 # 2. 산악 지형(SRTM) 파라미터 (북한산 일대)
